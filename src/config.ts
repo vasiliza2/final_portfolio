@@ -64,7 +64,7 @@ export const siteConfig = {
   name: "3 курс",
   // ...
   links: [
-    { label: "Английски язык", url: "https://drive.google.com/drive/folders/1XlWAwGeMTavJJLQs0s-gf9z15VoJuoEE?usp=sharing" },
+    { label: "Английский язык", url: "https://drive.google.com/drive/folders/1XlWAwGeMTavJJLQs0s-gf9z15VoJuoEE?usp=sharing" },
     { label: "Техническая документация", url: "https://drive.google.com/drive/folders/1LvqDwdeyGcB8gnpVpjDPWAq1a8VK28CU?usp=sharing" },
     { label: "Сети и телекоммуникации", url: "https://drive.google.com/drive/folders/1SfXJ8rsywSqOk1N0XqX0yoigtVe191EI?usp=sharing" },
     { label: "Публикация информации", url: "https://drive.google.com/drive/folders/1TIpojk9JVG5SfBrzgDwxlabdDE4GcdPj?usp=sharing" },
@@ -86,12 +86,23 @@ export const siteConfig = {
   ],
 },
 {
-  name: "4 курс (раздел в разработке)",
-  // ...
-  ///links: [
-    //{ label: "Ссылка 1", url: "https://url1.com" },
-    //{ label: "Ссылка 2", url: "https://url2.com" },
-  //],
+  name: "4 курс",
+ links: [
+    { label: "Английский язык", url: "https://drive.google.com/drive/u/0/folders/1bCshPABIaVZPPdzM7jOvsvIr_aV-49q5" },
+    { label: "ИТ рекрутмент", url: "https://drive.google.com/drive/folders/1_xQiOUCBxTsGiJDMCcz3CrTTwaMVe3y8?usp=sharing" },
+    { label: "Мировые информационные ресурсы и цифровые библиотеки", url: "https://drive.google.com/drive/folders/1hr5wlV12NPSsgy45HJoXA_dZvxAamP0l?usp=sharing" },
+    { label: "Научные расчеты", url: "https://drive.google.com/drive/folders/1vDf6dNMka2Mxntpfvmcwp0Kqsrtf5pE1?usp=sharing" },
+    { label: "Программирование", url: "https://drive.google.com/drive/folders/1HBJk-ZZ8im8qbEG7Dk5GObsTP5RYgkzx?usp=sharing" },
+    { label: "Практика", url: "https://drive.google.com/drive/folders/1gEBB4W_fqhrOJgfLw0tfbkYtIFzY36X9?usp=sharing" },
+    { label: "НИП", url: "https://drive.google.com/drive/folders/1OgQMY8SwnuvCv9n9KYmXrvfbe23rGent?usp=sharing" },
+    { label: "Информационные технологии оценки персонала", url: "https://drive.google.com/drive/folders/1iKgWehY5zt1muqzXAcugPUV7-Fm72fFx?usp=sharing" },
+    { label: "Социальные и профессиональные вопросы информатики и ИТ", url: "https://drive.google.com/drive/folders/14a66_VV928rN7kxTGO6pUWDA83wMVGdX?usp=sharing" },
+    { label: "Управление программными проектами", url: "https://drive.google.com/drive/folders/1sjHbMfCwZOQRRP_C8v7bUmCgySt6aWj_?usp=sharing" },
+    { label: "Образовательный инжиниринг", url: "https://drive.google.com/drive/folders/1WAT_5EUgSFk0ZNnmQXkyWLdxK0jJIvJN?usp=sharing" },
+    { label: "Курсовая", url: "https://drive.google.com/file/d/1vtRX0wBVnVCz1FrtbCJBMMMe4G5DHgox/view?usp=sharing" },
+    { label: "Языки написания спецификаций", url: "https://github.com/vasiliza2/diagrama" },
+  
+  ],
 },
   ],
 experience: [
